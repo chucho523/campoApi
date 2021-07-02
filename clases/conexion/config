@@ -1,9 +1,9 @@
 {
     "conexion":{
-        "server": "localhost",
-        "user": "id17152732_root",
-        "password": "568233545r-m-G",
-        "dataBase": "id17152732_campo",
+        "server": "us-cdbr-east-04.cleardb.com",
+        "user": "bf5d001fe8d523",
+        "password": "021c75b5",
+        "dataBase": "heroku_a4fd4e5740edfb0",
         "port": "3306"
 
     }
