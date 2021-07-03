@@ -1,4 +1,4 @@
-<html>
+
 <?php 
     require_once "clases/conexion/conexion.php";
 
@@ -10,4 +10,4 @@
 
 ?>
 hola index
-</html>
+
